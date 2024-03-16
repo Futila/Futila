@@ -1,8 +1,7 @@
-### Hi there! It´s Fernando Futila here 😎👋
+##### Hi there! It´s Fernando Futila here 😎👋
 
-- 🌱 I’m a Frontend Web Developer.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: A TV series I’ve watched all the way through more than once is Prison Break!
+I’m a Frontend Web Developer, passionate about technology, currently studying computer engineering. 
+
 
  <div>
   <a href="https://github.com/Futila">
