@@ -1,4 +1,4 @@
-##### Hi there! It´s Fernando Futila here 😎👋
+##### Fernando Futila
 
 I’m a Frontend Web Developer, passionate about technology, currently studying computer engineering. 
 
