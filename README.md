@@ -2,12 +2,12 @@
 
 Olá, sou um Desenvolvedor de Software, focado na criação de interfaces de usuário intuitivas e envolventes, além de soluções para o back-end. Tenho experiência em tecnologias modernas de front-end como ReactJS, Typescript, Styled-components, e ecossistemas associados como Redux, Zustand, e React Query. Paralelamente, estou aprimorando meu conhecimento em desenvolvimento full-stack com NodeJS e C#/NET Core.
 
-Habilidades Principais:
-• Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Next.js, Stitches, Radix UI, Styled-components, Flexbox, Media Queries, React Query, Zustand, Redux.
-• Backend: C#, ASP.NET Core, FluentValidation, Entity Framework, MySQL, Node.js.
-• Testes: Testing Library, xUnit.net, Playwright (E2E), testes unitários, Zod, React Hook Form.
-• Ferramentas e Frameworks: Git, GitHub, Docker, CI/CD, TurboRepo, Stripe, Storybook, Vite.
-• DevOps: Docker, CI/CD pipelines, automação de processos.
+Habilidades Principais:</br>
+• Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Next.js, Stitches, Radix UI, Styled-components, Flexbox, Media Queries, React Query, Zustand, Redux.</br>
+• Backend: C#, ASP.NET Core, FluentValidation, Entity Framework, MySQL, Node.js.</br>
+• Testes: Testing Library, xUnit.net, Playwright (E2E), testes unitários, Zod, React Hook Form.</br>
+• Ferramentas e Frameworks: Git, GitHub, Docker, CI/CD, TurboRepo, Stripe, Storybook, Vite.</br>
+• DevOps: Docker, CI/CD pipelines, automação de processos.</br>
 
 
  <div>
