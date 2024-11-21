@@ -1,14 +1,10 @@
 # Fernando Futila
 
-Olá, sou um Desenvolvedor de Software, focado na criação de interfaces de usuário intuitivas e envolventes, além de soluções para o back-end. Tenho experiência em tecnologias modernas de front-end como ReactJS, Typescript, Styled-components, e ecossistemas associados como Redux, Zustand, e React Query. Paralelamente, estou aprimorando meu conhecimento em desenvolvimento full-stack com NodeJS e C#/NET Core.
+I currently work as a Software Developer focused on building intuitive and scalable digital experiences, both on the front-end and back-end. I have solid experience with ReactJS, TypeScript, JavaScript, Nextjs, and modern libraries like Redux, Zustand, and React Query, which I apply to create robust and functional user interfaces. I am continuously enhancing my knowledge in full-stack development with NodeJS and C#/NET Core to deliver integrated and high-performance solutions.
 
-Habilidades Principais:</br>
-• Frontend: HTML5, CSS3, JavaScript, TypeScript, ReactJS, Next.js, Stitches, Radix UI, Styled-components, Flexbox, Media Queries, React Query, Zustand, Redux.</br>
-• Backend: C#, ASP.NET Core, FluentValidation, Entity Framework, MySQL, Node.js.</br>
-• Testes: Testing Library, xUnit.net, Playwright (E2E), testes unitários, Zod, React Hook Form.</br>
-• Ferramentas e Frameworks: Git, GitHub, Docker, CI/CD, TurboRepo, Stripe, Storybook, Vite.</br>
-• DevOps: Docker, CI/CD pipelines, automação de processos.</br>
+My background includes contributions to innovative projects in the healthcare sector, where I implemented critical functionalities in medical software and collaborated with multidisciplinary teams to deliver applications that meet strict standards of usability and technical precision. In previous roles, I also contributed to the development of educational platforms and cross-platform solutions using ElectronJS, ensuring alignment with performance and design requirements with a focus on impact and accessibility.
 
+I believe technology is a tool to enhance people’s lives, and I enjoy tackling technical and product challenges, always aiming to understand end-user needs. My skill set includes Frontend (ReactJS, Next.js, Stitches, Styled-components), Backend (C#, ASP.NET Core, Node.js), Testing and Automation (xUnit.net, Playwright, CI/CD), and a strong affinity with DevOps and infrastructure processes.
 
  <div>
   <a href="https://github.com/Futila">
