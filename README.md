@@ -1,6 +1,6 @@
 # Fernando Futila
 
-I currently work as a Software Developer focused on building intuitive and scalable digital experiences, both on the front-end and back-end. I have solid experience with ReactJS, TypeScript, JavaScript, Nextjs, and modern libraries like Redux, Zustand, and React Query, which I apply to create robust and functional user interfaces. I am continuously enhancing my knowledge in full-stack development with NodeJS and C#/NET Core to deliver integrated and high-performance solutions.
+I am Software Developer focused on building intuitive and scalable digital experiences, both on the front-end and back-end. I have solid experience with ReactJS, TypeScript, JavaScript, Nextjs, and modern libraries like Redux, Zustand, and React Query, which I apply to create robust and functional user interfaces. I am continuously enhancing my knowledge in full-stack development with NodeJS and C#/NET Core to deliver integrated and high-performance solutions.
 
 My background includes contributions to innovative projects in the healthcare sector, where I implemented critical functionalities in medical software and collaborated with multidisciplinary teams to deliver applications that meet strict standards of usability and technical precision. In previous roles, I also contributed to the development of educational platforms and cross-platform solutions using ElectronJS, ensuring alignment with performance and design requirements with a focus on impact and accessibility.
 
